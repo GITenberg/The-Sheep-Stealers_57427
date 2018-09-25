@@ -1,0 +1,23 @@
+_repo: The-Sheep-Stealers_57427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacob, Violet
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '7709'
+    url: http://www.gutenberg.org/2009/agents/7709
+    wikipedia: http://en.wikipedia.org/wiki/Violet_Jacob
+description: ''
+gutenberg_issued: '2018-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sheep-Stealers
+url: http://www.gutenberg.org/ebooks/57427
